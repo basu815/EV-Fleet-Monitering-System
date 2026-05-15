@@ -1,0 +1,6 @@
+{
+  "name": "FleetLive",
+  "description": "High-performance EV fleet management dashboard with real-time telemetry, route optimization, and predictive analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
